@@ -1,6 +1,6 @@
 # Reflection Skill · प्रतिबिंब
 
-![Reflection Skill banner: an app window and its reflection — recreate any app, website, game or software, clean-room](reflection-banner.png)
+![Reflection Skill infographic: target product → Reflection AI engine (analyze, understand, reconstruct, improve) → new independent product; evidence labels, tracks, modes and the complete rebuild workflow](reflection-infographic.png)
 
 [![GitHub stars](https://img.shields.io/github/stars/i-smiling-buddha/reflection-skill?style=for-the-badge)](https://github.com/i-smiling-buddha/reflection-skill/stargazers)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](LICENSE)
@@ -8,7 +8,9 @@
 [![Clean room](https://img.shields.io/badge/Clean-Room-orange.svg?style=for-the-badge)](#the-rules-it-enforces)
 [![skills.sh installs](https://skills.sh/b/i-smiling-buddha/reflection-skill)](https://skills.sh/i-smiling-buddha/reflection-skill)
 
-**Like the original in what it does. Never the original itself.**
+**Recreate anything. Build something better.**
+
+*Like the original in what it does. Never the original itself.*
 
 हिंदी गाइड: **[README.hi.md](README.hi.md)**
 

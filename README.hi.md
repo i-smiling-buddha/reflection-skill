@@ -2,7 +2,7 @@
 
 > English: [README.md](README.md)
 
-![Reflection Skill banner](reflection-banner.png)
+![Reflection Skill infographic](reflection-infographic.png)
 
 [![GitHub stars](https://img.shields.io/github/stars/i-smiling-buddha/reflection-skill?style=for-the-badge)](https://github.com/i-smiling-buddha/reflection-skill/stargazers)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](LICENSE)
@@ -10,7 +10,9 @@
 [![Clean room](https://img.shields.io/badge/Clean-Room-orange.svg?style=for-the-badge)](#यह-skill-किन-नियमों-पर-चलती-है)
 [![skills.sh installs](https://skills.sh/b/i-smiling-buddha/reflection-skill)](https://skills.sh/i-smiling-buddha/reflection-skill)
 
-**काम original जैसा। पर original की copy कभी नहीं।**
+**कुछ भी recreate कीजिए। उससे बेहतर बनाइए।**
+
+*काम original जैसा। पर original की copy कभी नहीं।*
 
 किसी app, website, game या software का अपना version बनाना है? यह open-source Agent Skill आपके AI agent को सिखाती है कि वह उसे बाहर से study करे, हर screen, flow और data table को map करे, और फिर आपके अपने brand के साथ उससे बेहतर version बनाए। हर finding पर **OBSERVED**, **DERIVED**, **INFERRED** या **UNKNOWN** का label लगता है, ताकि आपको हमेशा पता रहे कि क्या सच में देखा गया और क्या अंदाज़ा है।
 
