@@ -116,6 +116,7 @@ Full licence texts: [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
 
 - **[Smart Model Router Skill](https://github.com/i-smiling-buddha/smart-model-router-skill)** — save tokens and API credits: your agent routes each coding task to the cheapest model that can reliably do it, verifies the result, and escalates only when it fails. `npx skills add i-smiling-buddha/smart-model-router-skill`
 - **[AI Image Recognition Skill](https://github.com/i-smiling-buddha/ai-image-recognition-skill)** — stop guessing from previews: your agent checks real transparency (catches fake checkerboards), true format, size/DPI, colors, blur and GPS metadata in the actual image file. `npx skills add i-smiling-buddha/ai-image-recognition-skill`
+- **[PPT Animation Skill](https://github.com/i-smiling-buddha/ppt-animation-skill)** — turn any topic into a Kurzgesagt-style animated explainer video: your agent writes the script, records an offline Hindi/English voiceover, animates every scene in SVG and renders a 1080p MP4, with no paid APIs. `npx skills add i-smiling-buddha/ppt-animation-skill`
 
 ## Contributing
 
