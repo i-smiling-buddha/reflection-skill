@@ -18,6 +18,10 @@ Want your own version of an app, website, game or piece of software? This open-s
 
 Useful for founders validating an idea, vibe coders who want a solid build spec, product teams studying a competitor's UX, and anyone rebuilding an old tool they own.
 
+![Example run (illustrative): Lite track recon labels every finding OBSERVED, DERIVED, INFERRED or UNKNOWN, writes recreate/build-spec.md, then rebrands with a leftover sweep before any deploy](docs/assets/reflection-demo.gif)
+
+<sub>Illustrative example of a Lite-track session, not a recorded run.</sub>
+
 ## Install
 
 Install with the open Agent Skills CLI:

@@ -18,6 +18,10 @@
 
 Idea validate करने वाले founders, अच्छा build spec चाहने वाले vibe coders, competitor का UX समझने वाली product teams, और अपना पुराना tool दोबारा बनाने वालों के लिए उपयोगी।
 
+![उदाहरण (illustrative): Lite track recon हर finding को OBSERVED, DERIVED, INFERRED या UNKNOWN label देता है, recreate/build-spec.md लिखता है, फिर deploy से पहले rebrand और leftover sweep](docs/assets/reflection-demo.gif)
+
+<sub>Lite track session का एक उदाहरण — असली recorded run नहीं।</sub>
+
 ## Install
 
 Open Agent Skills CLI से install करें:
