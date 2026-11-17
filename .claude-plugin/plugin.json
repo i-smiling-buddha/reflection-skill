@@ -1,0 +1,22 @@
+{
+  "name": "reflection-skill",
+  "description": "Reflection (Pratibimb): study any website, app, game or shipped software and recreate it clean-room, from evidence-labelled recon to build, parity check, rebrand, launch and deploy.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Smiling Buddha",
+    "url": "https://github.com/i-smiling-buddha"
+  },
+  "homepage": "https://github.com/i-smiling-buddha/reflection-skill",
+  "repository": "https://github.com/i-smiling-buddha/reflection-skill",
+  "license": "MIT",
+  "keywords": [
+    "claude-code",
+    "agent-skills",
+    "skill-md",
+    "reverse-engineering",
+    "app-clone",
+    "clean-room",
+    "product"
+  ],
+  "skills": "./skills/"
+}

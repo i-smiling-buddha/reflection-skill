@@ -1,0 +1,18 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "reflection-skill",
+  "description": "Reflection (Pratibimb): clean-room recreation skill",
+  "owner": {
+    "name": "Smiling Buddha",
+    "url": "https://github.com/i-smiling-buddha"
+  },
+  "plugins": [
+    {
+      "name": "reflection-skill",
+      "description": "Study any website, app, game or shipped software and recreate it clean-room: recon, build spec or full build, parity check, review-driven fixes, rebrand, launch and deploy.",
+      "source": "./",
+      "category": "productivity",
+      "homepage": "https://github.com/i-smiling-buddha/reflection-skill"
+    }
+  ]
+}
