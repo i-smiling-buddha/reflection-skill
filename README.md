@@ -1,4 +1,4 @@
-# Reflection Skill · प्रतिबिंब
+# Reflection (Cloning) Skill ·
 
 ![Reflection Skill infographic: target product → Reflection AI engine (analyze, understand, reconstruct, improve) → new independent product; evidence labels, tracks, modes and the complete rebuild workflow](reflection-infographic.png)
 
